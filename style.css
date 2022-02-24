@@ -1,0 +1,18 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #f1f7fa;
+    /* text-align: center; */
+}
+
+#project {
+    background-color: #f1f7fa;
+}
+
+.bg {
+    text-align: center;
+    background-color: #2e3847;
+}
+
+section {
+    padding-top: 4rem;
+}
